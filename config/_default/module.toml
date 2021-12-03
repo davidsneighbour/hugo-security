@@ -1,0 +1,14 @@
+################################################################################
+# configuration
+################################################################################
+[hugoVersion]
+extended = false
+min = "0.56.0"
+
+[[mounts]]
+source = "layouts/"
+target = "layouts/"
+
+[[mounts]]
+source = "content/dnb/privacy/"
+target = "content/dnb/privacy/"
