@@ -1,5 +1,5 @@
 {
-  "name": "dnb-hugo-security",
+  "name": "@dnb-org/dnb-hugo-security",
   "version": "1.0.1",
   "license": "MIT",
   "description": "Security related features for Hugo.",
@@ -11,6 +11,10 @@
   "homepage": "https://github.com/dnb-org/dnb-hugo-security",
   "repository": "dnb-org/dnb-hugo-security",
   "bugs": "https://github.com/dnb-org/dnb-hugo-security/issues",
+  "dependencies": {
+    "mem": "^9.0.1",
+    "trim": "^1.0.1"
+  },
   "devDependencies": {
     "@dnb-org/standard-version-config": "^3.4.8",
     "@dnb-org/tools": "^3.4.10"
@@ -21,9 +25,5 @@
     "release:minor": "standard-version --release-as minor -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release-hook-postrelease"
   },
   "private": true,
-  "slug": "dnb-hugo-security",
-  "dependencies": {
-    "mem": "^9.0.1",
-    "trim": "^1.0.1"
-  }
+  "slug": "dnb-hugo-security"
 }
