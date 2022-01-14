@@ -88,12 +88,15 @@ The module will warn you in the CLI log if this parameter is missing.
 
 ### Example Implementations
 
-A few real-world implementation examples of security.txt
+A few real-world implementation examples of `security.txt`
 
 - https://www.bbc.com/.well-known/security.txt
 - https://www.theguardian.com/.well-known/security.txt
 - https://www.google.com/.well-known/security.txt
-- https://davids-neighbour.com/.well-known/security.txt
+
+... and a few websites that are using `dnb-hugo-security`:
+
+- https://kollitsch.de/.well-known/security.txt
 
 <!--- COMPONENTS BEGIN --->
 
