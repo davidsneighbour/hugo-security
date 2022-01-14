@@ -1,5 +1,5 @@
 {{- with site.Params.dnb.security.txt.intro -}}
-# {{ . }}
+{{ . }}
 {{ end -}}
 {{- $expires := site.Params.dnb.security.txt.expires -}}
 Expires: {{ now.AddDate 0 0 ($expires | int) | dateFormat "2006-01-02T15:04:05Z" }}

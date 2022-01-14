@@ -6,7 +6,8 @@ content = ""
 
 # optional
 # introduction comment for the security.txt file. add empty to disable
-intro = "Information related to reporting security vulnerabilities of this site."
+# Don't forget to add comment markers `#` to lines you want to be comments
+intro = "# Information related to reporting security vulnerabilities of this site."
 
 # required
 # A link or e-mail address for people to contact you about security issues.
