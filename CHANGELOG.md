@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.3](https://github.com/dnb-org/dnb-hugo-security/compare/v1.0.2...v1.0.3) (2022-01-28)
+
+
+### Chore
+
+* **config:** update header images ([a286318](https://github.com/dnb-org/dnb-hugo-security/commit/a28631863bb00275738549b2c3d9e6850bde17d0))
+* **deps:** update dependencies ([296d5ca](https://github.com/dnb-org/dnb-hugo-security/commit/296d5ca3ddfa6a666bfcc46fe785c0ab95d5ca88))
+
+
+### Build System
+
+* update build scripts and locations ([a09e3e3](https://github.com/dnb-org/dnb-hugo-security/commit/a09e3e36555316bd1f2e24288a88e730d0bbc088))
+
 ### [1.0.2](https://github.com/dnb-org/dnb-hugo-security/compare/v1.0.1...v1.0.2) (2022-01-14)
 
 
