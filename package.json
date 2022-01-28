@@ -12,12 +12,12 @@
   "repository": "dnb-org/dnb-hugo-security",
   "bugs": "https://github.com/dnb-org/dnb-hugo-security/issues",
   "dependencies": {
-    "mem": "^9.0.1",
+    "mem": "^9.0.2",
     "trim": "^1.0.1"
   },
   "devDependencies": {
-    "@dnb-org/standard-version-config": "^3.4.8",
-    "@dnb-org/tools": "^3.4.10"
+    "@dnb-org/standard-version-config": "^3.5.1",
+    "@dnb-org/tools": "^3.5.1"
   },
   "scripts": {
     "release": "standard-version --release-as patch -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release-hook-postrelease",
