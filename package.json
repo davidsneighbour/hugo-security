@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@dnb-org/standard-version-config": "^3.5.1",
-    "@dnb-org/tools": "^3.5.1"
+    "@dnb-org/tools": "^3.5.2"
   },
   "scripts": {
     "release": "standard-version --release-as patch -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release/postrelease",
