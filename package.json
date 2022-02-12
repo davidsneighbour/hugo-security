@@ -16,8 +16,8 @@
     "trim": "^1.0.1"
   },
   "devDependencies": {
-    "@dnb-org/standard-version-config": "^3.5.1",
-    "@dnb-org/tools": "^3.5.1"
+    "@dnb-org/standard-version-config": "^3.5.6",
+    "@dnb-org/tools": "^3.5.6"
   },
   "scripts": {
     "release": "standard-version --release-as patch -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release/postrelease",
