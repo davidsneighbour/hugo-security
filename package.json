@@ -1,6 +1,6 @@
 {
   "name": "@dnb-org/dnb-hugo-security",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "description": "Security related features for Hugo.",
   "author": {

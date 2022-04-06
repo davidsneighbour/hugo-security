@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.4](https://github.com/dnb-org/dnb-hugo-security/compare/v1.0.3...v1.0.4) (2022-04-06)
+
+
+### Chore
+
+* **deps:** update dependencies ([95db684](https://github.com/dnb-org/dnb-hugo-security/commit/95db6843c9099bd7cd52f92a07de84155343297d))
+* update go.mod ([b4df239](https://github.com/dnb-org/dnb-hugo-security/commit/b4df239146d6b3d9c5d155fbdade7c2f1119d9ea))
+
 ### [1.0.3](https://github.com/dnb-org/dnb-hugo-security/compare/v1.0.2...v1.0.3) (2022-01-28)
 
 
