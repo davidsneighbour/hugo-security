@@ -1,3 +1,3 @@
-module github.com/dnb-org/dnb-hugo-security
+module github.com/davidsneighbour/hugo-security
 
 go 1.17
