@@ -1,5 +1,5 @@
 {
-  "name": "@dnb-org/dnb-hugo-security",
+  "name": "@davidsneighbour/hugo-security",
   "version": "1.0.4",
   "license": "MIT",
   "description": "Security related features for Hugo.",
@@ -8,9 +8,9 @@
     "email": "patrick@davids-neighbour.com",
     "web": "https://davids-neighbour.com"
   },
-  "homepage": "https://github.com/dnb-org/dnb-hugo-security",
-  "repository": "dnb-org/dnb-hugo-security",
-  "bugs": "https://github.com/dnb-org/dnb-hugo-security/issues",
+  "homepage": "https://github.com/davidsneighbour/hugo-security",
+  "repository": "davidsneighbour/hugo-security",
+  "bugs": "https://github.com/davidsneighbour/hugo-security/issues",
   "dependencies": {
     "mem": "^9.0.2",
     "trim": "^1.0.1"
