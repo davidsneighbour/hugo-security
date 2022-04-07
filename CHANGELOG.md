@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/davidsneighbour/hugo-security/compare/v1.0.4...v1.1.0) (2022-04-07)
+
+
+### Chore
+
+* updates and repo-renames ([33190b3](https://github.com/davidsneighbour/hugo-security/commit/33190b306f0a0bd6df527e8a786cab2a42bb6cf4))
+
 ### [1.0.4](https://github.com/dnb-org/dnb-hugo-security/compare/v1.0.3...v1.0.4) (2022-04-06)
 
 
