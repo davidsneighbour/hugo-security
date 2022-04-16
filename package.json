@@ -16,8 +16,8 @@
     "trim": "^1.0.1"
   },
   "devDependencies": {
-    "@dnb-org/standard-version-config": "^3.5.6",
-    "@dnb-org/tools": "^3.5.6"
+    "@davidsneighbour/standard-version-config": "^4.0.1",
+    "@davidsneighbour/tools": "^4.0.1"
   },
   "scripts": {
     "release": "standard-version --release-as patch -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release/postrelease",
@@ -25,5 +25,5 @@
     "release:minor": "standard-version --release-as minor -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release/postrelease"
   },
   "private": true,
-  "slug": "dnb-hugo-security"
+  "slug": "hugo-security"
 }
