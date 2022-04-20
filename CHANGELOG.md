@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/davidsneighbour/hugo-security/compare/v1.1.0...v1.1.1) (2022-04-20)
+
+
+### Build System
+
+* update Github organization name & use newer NPM dependencies ([#27](https://github.com/davidsneighbour/hugo-security/issues/27)) ([862ae2c](https://github.com/davidsneighbour/hugo-security/commit/862ae2c8e839b20c8741a47991aa6e15a7d60dbb))
+
+
+### Chore
+
+* **fix:** module name and updated dependencies lock ([8a8efa3](https://github.com/davidsneighbour/hugo-security/commit/8a8efa3a81741c0ace45db776fb32b65f090e683))
+
 ## [1.1.0](https://github.com/davidsneighbour/hugo-security/compare/v1.0.4...v1.1.0) (2022-04-07)
 
 
