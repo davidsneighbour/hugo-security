@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.2](https://github.com/davidsneighbour/hugo-security/compare/v1.1.1...v1.1.2) (2022-05-01)
+
+
+### Bug Fixes
+
+* remove privacy policy mount for now ([14742ec](https://github.com/davidsneighbour/hugo-security/commit/14742ece9d00b0e936d19c0f0c05899d4f8b1acb))
+
 ### [1.1.1](https://github.com/davidsneighbour/hugo-security/compare/v1.1.0...v1.1.1) (2022-04-20)
 
 

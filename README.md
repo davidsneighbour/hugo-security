@@ -44,7 +44,7 @@ Then add this module to your required modules in `config.toml`.
 [module]
 
 [[module.imports]]
-path = "github.com/davidsneighbour/hugo-security"
+path = "github.com/davidsneighbour/github.com/davidsneighbour/hugo-security"
 disable = false
 ignoreConfig = false
 ignoreImports = false
@@ -57,9 +57,9 @@ The next time you run `hugo` it will download the latest version of the module.
 
 ```bash
 # update this module
-hugo mod get -u github.com/davidsneighbour/hugo-security
+hugo mod get -u github.com/davidsneighbour/github.com/davidsneighbour/hugo-security
 # update to a specific version
-hugo mod get -u github.com/davidsneighbour/hugo-security@v1.0.0
+hugo mod get -u github.com/davidsneighbour/github.com/davidsneighbour/hugo-security@v1.0.0
 # update all modules recursively over the whole project
 hugo mod get -u ./...
 ```
