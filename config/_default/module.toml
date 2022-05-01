@@ -13,6 +13,6 @@ target = "layouts/"
 source = "data/"
 target = "data/"
 
-[[mounts]]
-source = "content/dnb/privacy/"
-target = "content/dnb/privacy/"
+# [[mounts]]
+# source = "content/dnb/privacy/"
+# target = "content/dnb/privacy/"
