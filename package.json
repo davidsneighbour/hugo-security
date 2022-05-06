@@ -16,7 +16,7 @@
     "trim": "^1.0.1"
   },
   "devDependencies": {
-    "@davidsneighbour/standard-version-config": "^4.0.1",
+    "@davidsneighbour/standard-version-config": "^4.0.2",
     "@davidsneighbour/tools": "^4.0.1"
   },
   "scripts": {
