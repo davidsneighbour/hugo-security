@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.3](https://github.com/davidsneighbour/hugo-security/compare/v1.1.2...v1.1.3) (2022-07-24)
+
+
+### Chore
+
+* **config:** set Dependabot to monthly checks ([468f31f](https://github.com/davidsneighbour/hugo-security/commit/468f31f19dfae3dec9f68f33105bf20a02995374))
+
 ### [1.1.2](https://github.com/davidsneighbour/hugo-security/compare/v1.1.1...v1.1.2) (2022-05-01)
 
 
