@@ -11,13 +11,8 @@
   "homepage": "https://github.com/davidsneighbour/hugo-security",
   "repository": "davidsneighbour/hugo-security",
   "bugs": "https://github.com/davidsneighbour/hugo-security/issues",
-  "dependencies": {
-    "mem": "^9.0.2",
-    "trim": "^1.0.1"
-  },
   "devDependencies": {
-    "@davidsneighbour/standard-version-config": "^4.0.1",
-    "@davidsneighbour/tools": "^4.0.1"
+    "@davidsneighbour/config": "^1.0.22"
   },
   "scripts": {
     "release": "standard-version --release-as patch -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release/postrelease",
