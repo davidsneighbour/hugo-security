@@ -12,7 +12,7 @@
   "repository": "davidsneighbour/hugo-security",
   "bugs": "https://github.com/davidsneighbour/hugo-security/issues",
   "devDependencies": {
-    "@davidsneighbour/config": "^1.0.22"
+    "@davidsneighbour/config": "^1.0.28"
   },
   "scripts": {
     "release": "standard-version --release-as patch -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release/postrelease",
